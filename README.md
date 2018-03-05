@@ -13,7 +13,7 @@ danimetzner@gmail.com
 ***
 ## Education
 University of Colorado  Boulder, CO  
-BS in Mechanical Engineering  Minor: Economics B.S.  May 2014
+**_BS in Mechanical Engineering_**  Minor: **_Economics B.S._**  May 2014
 
 ***
 ## Work Experience
