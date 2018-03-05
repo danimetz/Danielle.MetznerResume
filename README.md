@@ -19,7 +19,7 @@ University of Colorado  Boulder, CO
 ## Work Experience
 ### Operations Support Manager - Zayo
 * Work with regional directors to manage all Rocky Mountain Region fiber optic construction
-* Forecast regions capital spend
+* Forecast Rocky Mountain Region capital spend
 * Identify process issues within Salesforce and work with Project Managers to develop solutions
 
 ### OSP Operations Analyst - Zayo
