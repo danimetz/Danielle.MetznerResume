@@ -27,7 +27,7 @@ University of Colorado  Boulder, CO
 * Work with cross-functional teams to oversee internal process development in Salesforce.com to ensure increased functionality and reduce process implementation setbacks
 * Build, develop, maintain and customize a VBA-based application that is scalable allowing for effective management of projects supporting awarded construction increase of over 100% in two years
 * Administer over 400 internal users on Box.com to increase the efficiency of information transfer between external vendors
-* Report on US quarterly construction metrics; site deliveries, placed fiber footage, occupancy granted###
+* Report on US quarterly construction metrics; site deliveries, placed fiber footage, occupancy granted
 
 ### Global Operations Strategy Intern - Seagate Technology LLC
 *	Applied engineering acumen to analyze different companies and develop strategies for global product manufacturing. Strategic topics included: outsourcing, make vs. buy, modularization
