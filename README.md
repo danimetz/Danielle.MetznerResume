@@ -19,9 +19,11 @@ University of Colorado  Boulder, CO
 ***
 ## Work Experience
 ### Operations Support Manager - Zayo
+* Integrate Salesforce with ESRI to manage over 70 million feet of fiber build across the nation
+* Identify process issues within Salesforce and work with Project Managers to develop Google Chrome extension solutions
+* Reclaimed over $500,000 in capital expenditures in Colorado due to efficient vendor bid process. 
 * Work with regional directors to manage all Rocky Mountain Region fiber optic construction
-* Forecast Rocky Mountain Region capital spend
-* Identify process issues within Salesforce and work with Project Managers to develop solutions
+* Forecast Rocky Mountain Region capital spend quarter over quarter
 
 ### OSP Operations Analyst - Zayo
 * Create outside plant project metric visibility in Salesforce.com for Project Managers, Area Directors and Vice Presidents
