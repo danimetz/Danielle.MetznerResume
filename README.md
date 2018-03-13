@@ -9,11 +9,12 @@ danimetzner@gmail.com
 *	MATLAB, SolidWorks, VBA 
 *	Microsoft Office Suite: Excel, PowerPoint, Word, Projects, Visio
 *	Technical writing, public speaking, and presentation skills
+* Explored Javascript, HTML, CSS, Python on CodeAcademy.com
 
 ***
 ## Education
 University of Colorado  Boulder, CO  
-**_BS in Mechanical Engineering_**  Minor: **_Economics B.S._**  May 2014
+**_BS in Mechanical Engineering_**  Minor: **_Economics_**  May 2014
 
 ***
 ## Work Experience
