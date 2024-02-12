@@ -1,8 +1,6 @@
 # Danielle Metzner
 ***
-1330 S Ogdent St, Denver CO 80210  
-(303) - 522 - 8727  
-danimetzner@gmail.com  
+Denver, CO
 
 ***
 ## Engineering and Technical Skills
